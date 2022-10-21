@@ -14,7 +14,7 @@
 
 ## 1. Dwonload Python
 
-Pastikan anda sudah mendwonload Python terlebih dahulu
+Pastikan anda sudah mendwonload Python terlebih dahulu.
 
 > *https://www.python.org/downloads/windows/* 
 
@@ -23,25 +23,25 @@ Pastikan anda sudah mendwonload Python terlebih dahulu
 
 ## 2. Input Nilai dan Variabel
 
-Bila sudah, buka IDLE dan masukan variabel sesuai project yang anda buat
+Bila sudah, buka IDLE dan masukan variabel sesuai project yang anda buat.
 
 ![img 1](image/333.png)
 
 
 ## 3. Save
 
-Save project dengan cara klik menu file atau Ctrl+S dan masukan *nama file* 
+Save project dengan cara klik menu file atau Ctrl+S dan masukan *nama file*.
 
 ![img 1](image/222.png)
 
-Setelah itu RUN, lalu anda akan di arahkan menuju IDLE Shell
+Setelah itu jalankan degan cara klik tombol *Run* atau menekan *F5*.
 
-![img 1]()
+![img 1](image/444.png)
 
 
 ## 4. Output Hasil
 
-Terakhir masukkan nilai, maka hasil akan keluar secara otomatis
+Lalu anda akan di arahkan menuju IDLE Shell dan bisa memasukkan nilai untuk melihat hasilnya
 
 ![img 1](image/555.png)
 
@@ -67,19 +67,19 @@ Masukkan nama project dan pilih lokasi penyimpanan untuk direktori anda
 
 lalu klik kanan pada direktori kerja yang anda buat sebelumnya, pilih *New* lalu *Python File*
 
-![img 2](image/5555.)
+![img 2](image/5555.png)
 
 
 ## 4. Input Nilai dan Variabel
 
-input nilai dan variabel sesuai project anda lalu jalankan dengan cara klik tombol *RUN*
+input nilai dan variabel sesuai project lalu jalankan dengan cara klik tombol *RUN*
 
 ![img 2](image/6666.png)
 
 
 ## 5. Output
 
-Masukkan nilai
+Masukkan nilai 
 
 ![img 2](image/7776.png)
 
